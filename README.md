@@ -4,6 +4,12 @@ A Tkinter based tool for medical image processsing, submitted as a mini project 
 
 Credits to Ms Ravikala Kamath(Assistant Professor, MSIS, MAHE Manipal), Prakyat Shetty, Rahul SG and Vishal Kompalli (Embedded Systems, MSIS)
 
+Libraries used: Pillow, OpenCV, Tkinter
+
+
+
+
+
 References
 1) https://www.geeksforgeeks.org/python-opencv-selectroi-function/
 2) https://docs.opencv.org/3.4/js_basic_ops_roi.html
