@@ -29,18 +29,21 @@ This project provides a simple graphical user interface (GUI) tool for processin
   
 ***
 
-## Installation  
+## Installation
 
 1. Clone the repository:
+   ```bash
    git clone https://github.com/Vishalkompalli/Tool-for-medical-Images.git
    cd Tool-for-medical-Images
    ```
 
 2. Install the required Python libraries:
+   ```bash
    pip install opencv-python pillow
    ```
 
 3. Run the tool using Python:
+   ```bash
    python main.py
    ```
 
@@ -58,7 +61,7 @@ This project provides a simple graphical user interface (GUI) tool for processin
 
 ## Credits
 
-- Developed by: Vishal Kompalli, Prakyat Shetty, Rahul SG
+- Developed by: Prakyat Shetty, Rahul SG, Vishal Kompalli   
 - Guidance by: Ms. Ravikala Kamath (Assistant Professor, MSIS, MAHE Manipal)
 - This project was submitted as a mini project to Manipal School of Information Sciences (Dec 2022).
 
